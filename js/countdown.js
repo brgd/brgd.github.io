@@ -5,7 +5,7 @@ var MARGIN_TOP = 60;
 var MARGIN_LEFT = 30;
 
 var endTime = new Date();
-endTime.setTime( endTime.getTime() + 23*1000 )
+endTime.setTime( endTime.getTime() + 5*1000 )
 var curShowTimeSeconds = 0
 
 var balls = [];
